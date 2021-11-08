@@ -1,0 +1,31 @@
+body {
+    background-image: url("Background.jpg");
+    background-size: cover;
+}
+
+.heading {
+    font-size: 30px;
+    width: 80%;
+    color: rgb(250, 10, 130);
+    font-family: comic sans ms;
+}
+
+.name_of_objects,
+#result_object_name,
+#result_object_accuracy {
+    font-size: 20px;
+    color: indigo;
+}
+
+#camera,
+#result {
+    border: 2px solid rgb(255, 115, 0);
+    width: 350px;
+    height: 300px;
+    margin-top: 10px;
+}
+
+hr {
+    border: 2px solid rgb(228, 140, 169);
+    width: 50%;
+}
